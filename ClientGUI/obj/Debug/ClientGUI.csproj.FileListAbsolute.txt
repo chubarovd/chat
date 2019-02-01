@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ServerChat\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\User\Desktop\ServerChat\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\User\Desktop\ServerChat\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\User\Desktop\ServerChat\ClientGUI\bin\Debug\Protocol.dll
+C:\Users\User\Desktop\ServerChat\ClientGUI\bin\Debug\Protocol.pdb
+C:\Users\User\Desktop\ServerChat\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ServerChat\ClientGUI\obj\Debug\ServerChat.ClientGUI.resources
+C:\Users\User\Desktop\ServerChat\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\User\Desktop\ServerChat\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ServerChat\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\User\Desktop\ServerChat\ClientGUI\obj\Debug\ClientGUI.pdb

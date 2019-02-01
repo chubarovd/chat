@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\ServerChat\ServerChat\bin\Debug\ServerChat.exe.config
+C:\Users\User\Desktop\ServerChat\ServerChat\bin\Debug\ServerChat.exe
+C:\Users\User\Desktop\ServerChat\ServerChat\bin\Debug\ServerChat.pdb
+C:\Users\User\Desktop\ServerChat\ServerChat\obj\Debug\ServerChat.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ServerChat\ServerChat\obj\Debug\ServerChat.exe
+C:\Users\User\Desktop\ServerChat\ServerChat\obj\Debug\ServerChat.pdb
+C:\Users\User\Desktop\ServerChat\ServerChat\bin\Debug\Protocol.dll
+C:\Users\User\Desktop\ServerChat\ServerChat\bin\Debug\Protocol.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\ServerChat\Protocol\bin\Debug\Protocol.dll
+C:\Users\User\Desktop\ServerChat\Protocol\bin\Debug\Protocol.pdb
+C:\Users\User\Desktop\ServerChat\Protocol\obj\Debug\Protocol.dll
+C:\Users\User\Desktop\ServerChat\Protocol\obj\Debug\Protocol.pdb
+C:\Users\User\Desktop\ServerChat\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache

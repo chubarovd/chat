@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerChat", "ServerChat\ServerChat.csproj", "{17E38F89-A7CF-468A-B808-D0A47A0BC684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientGUI", "ClientGUI\ClientGUI.csproj", "{9F67D50E-8C5B-46ED-B192-9256F67FD7D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol", "Protocol\Protocol.csproj", "{6E7E556B-F6A7-44E3-BC8E-5D746AA77A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E38F89-A7CF-468A-B808-D0A47A0BC684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E38F89-A7CF-468A-B808-D0A47A0BC684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E38F89-A7CF-468A-B808-D0A47A0BC684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E38F89-A7CF-468A-B808-D0A47A0BC684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F67D50E-8C5B-46ED-B192-9256F67FD7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F67D50E-8C5B-46ED-B192-9256F67FD7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F67D50E-8C5B-46ED-B192-9256F67FD7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F67D50E-8C5B-46ED-B192-9256F67FD7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7E556B-F6A7-44E3-BC8E-5D746AA77A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7E556B-F6A7-44E3-BC8E-5D746AA77A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7E556B-F6A7-44E3-BC8E-5D746AA77A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7E556B-F6A7-44E3-BC8E-5D746AA77A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
